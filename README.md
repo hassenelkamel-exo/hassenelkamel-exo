@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**hassenelkamel-exo/hassenelkamel-exo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, I'm Hassen El kamel</h1>
 
-Here are some ideas to get you started:
+<div align="center"><img src="https://komarev.com/ghpvc/?username=hassenelkamel-exo"/></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hassenelkamel-exo&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=hassenelkamel-exo&count_private=true&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassenelkamel-exo&theme=dracula&langs_count=15&layout=compact&hide=php" />
+</div>
+<br/>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hassenelkamel-exo&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/hassenelkamel-exo/hassenelkamel-exo/blob/output/github-contribution-grid-snake.svg)
